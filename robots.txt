@@ -1,0 +1,20 @@
+# robots.txt for http://rationalwiki.com/
+
+User-agent: *
+Disallow: /w/
+Disallow: /wiki/Special:RecentChangesLinked/
+Disallow: /wiki/Special:WhatLinksHere/
+Disallow: /wiki/Fun:Trent_Toulouse
+Disallow: /wiki/Fun_talk:Trent_Toulouse
+
+User-agent: Apache-HttpClient
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: Exabot
+Disallow: /
